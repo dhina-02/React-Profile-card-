@@ -3,6 +3,7 @@
 ## Overview
 
 The React Profile Card project enables users to create dynamic profile cards by providing information such as username, image address, online status, and skills. The project passes these values to the `UserCard.jsx` component, where the user card is rendered.
+![Screenshot (341)](https://github.com/dhina-02/React-Profile-card-/assets/141801163/76ceea5e-28f2-4900-969e-c8a9546ae4b9)
 
 ## Features
 
